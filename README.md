@@ -11,3 +11,5 @@ prettier is installed
 live server is installed
 
 ## git config outputs:
+lovelybre132@gmail.com
+my user name brittany
